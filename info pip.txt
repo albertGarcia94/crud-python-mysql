@@ -1,0 +1,13 @@
+comandos 
+pip install Flasck
+pip install Flask-Mysql
+pip install jinja2
+
+extensiones
+bootstrap v4 snippets    zaczero
+flask snippets   code yard
+flask-snippets    cstrap 
+jinja2 snippets kit    wyatt ferguson
+
+andromeda   eeliver lara 
+panlenight   theme   plaolu
